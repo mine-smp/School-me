@@ -1,8 +1,8 @@
-r = int(input("math = "))  # ریاضی
-k = int(input("history = "))  # تاریخ
-l = int(input("parsi = "))  # فارسی
-a= int(input("Arabic = "))  # عربی
-m = int(input("english = "))  # انگلیسی
-x = (m + l + k + r+a) / 5  # جمع کردن و تقسیم بر پنج
+r = int(input("math = "))  
+k = int(input("history = "))  
+l = int(input("parsi = "))  
+a= int(input("Arabic = "))  
+m = int(input("english = ")) 
+x = (m + l + k + r+a) / 5  
 print ("-------------------------")
-print(f"GPA: {x}")  # نمایش نتیجه با کلمه "معدل"
+print(f"GPA: {x}") 
